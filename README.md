@@ -8,6 +8,7 @@ Além de ser um amante de tecnologia, sou um amante de jogos! Foi aí que tive m
 
 ## ❓ Outras informações ❓ ##
 📘 Faculdade: Centro Universitário Newton Paiva, 1° período
+
 💻 Área: Back-end
 
 ## EN
