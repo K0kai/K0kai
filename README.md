@@ -7,7 +7,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas e um programador rela
 Além de ser um amante de tecnologia, sou um amante de jogos! Foi aí que tive meu primeiro contato com a programação. Entre 2014 e 2015, fiz um pequeno projeto para mim mesmo na plataforma ROBLOX. Fiquei fascinado pela plataforma e seus jogos, e quis fazer um para mim. Então, aprendi a linguagem Lua por conta própria e fiz modelos 3D básicos utilizando a própria plataforma. Construi um jogo que, para minha surpresa, acabou indo para a página principal do site. Após isso, tive complicações que saíram do meu controle e tive que abandonar o projeto. Porém, o legado ainda vive em pequenas comunidades que tentam reviver o jogo. Em 2021, entrei para o COTEMIG, onde me aprofundei mais nas linguagens de programação e seus conceitos, aprendendo sobre bancos de dados, programação orientada a objetos e as linguagens C#, HTML, CSS e um pouco de JavaScript.
 
 ## ❓ Outras informações ❓ ##
-📘 Faculdade: Centro Universitário Newton Paiva, 1° período
+📘 Faculdade: Centro Universitário Newton Paiva, 2° período
 
 💻 Área: Back-end
 
@@ -19,7 +19,7 @@ I am a student of Systems Analysis and Development and a relatively new programm
 In addition to being a technology lover, I am also a gaming enthusiast! It was through gaming that I had my first contact with programming. Between 2014 and 2015, I created a small project for myself on the ROBLOX platform. I was fascinated by the platform and its games, and I wanted to make one for myself. So, I learned the Lua language on my own and made basic 3D models using the platform. I built a game that, to my surprise, ended up on the site's main page. After that, I had complications beyond my control and had to abandon the project. However, the legacy still lives on in small communities that try to revive the game. In 2021, I joined COTEMIG, where I delved deeper into programming languages and their concepts, learning about databases, object-oriented programming, and the languages C#, HTML, CSS, and a bit of JavaScript.
 
 ## ❓ Other Information ❓ ##
-📘 University: Centro Universitário Newton Paiva, 1st semester
+📘 University: Centro Universitário Newton Paiva, 2nd semester
 
 💻 Area: Back-end
 
