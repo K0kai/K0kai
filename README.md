@@ -25,7 +25,7 @@ In addition to being a technology lover, I am also a gaming enthusiast! It was t
 
 ### </> Linguagens e Ferramentas (Languages and Tools) 🛠️:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,lua,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,py,lua,html,css,mysql)](https://skillicons.dev)
 
 ### 💻 Softwares:
 
