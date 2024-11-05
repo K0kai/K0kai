@@ -29,7 +29,7 @@ In addition to being a technology lover, I am also a gaming enthusiast! It was t
 
 ### 💻 Softwares:
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,webstorm,robloxstudio)](https://skillicons.dev)
 
 
 <!--
