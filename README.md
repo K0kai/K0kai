@@ -21,7 +21,7 @@ In addition to being a technology lover, I am also a gaming enthusiast! It was t
 ## ❓ Other Information ❓ ##
 📘 University: Centro Universitário Newton Paiva, 2nd semester
 
-💻 Area: Back-end
+💻 Area: Full stack
 
 ### </> Linguagens e Ferramentas (Languages and Tools) 🛠️:
 
