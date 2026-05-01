@@ -9,7 +9,7 @@ Além de ser um amante de tecnologia, sou um amante de jogos! Foi aí que tive m
 ## ❓ Outras informações ❓ ##
 📘 Faculdade: Centro Universitário Newton Paiva, 2° período
 
-💻 Área: Back-end
+💻 Área: Full stack
 
 ## EN
 ## 👋 Hi, I’m Kokai, but you can call me Luis! ✌️ ##
