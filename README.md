@@ -1,48 +1,90 @@
-## PT
+# Luis Felipe Machado · @K0kai
 
-## 👋 Olá, eu sou Kokai, mas pode me chamar de Luis! ✌️ ##
-Sou um estudante de Análise e Desenvolvimento de Sistemas e um programador relativamente novo. Sou apaixonado por tecnologia e busco expandir meus horizontes todos os dias, tentando aprender novas línguas, métodos e conceitos para me tornar um ótimo profissional na minha área.
+**Desenvolvedor Backend & Automação** · Belo Horizonte, BR  
+Estudante de TI com experiência real em produção — construo ferramentas que resolvem problemas de verdade.
 
-## 📈 Trajetória 🗺️ ##
-Além de ser um amante de tecnologia, sou um amante de jogos! Foi aí que tive meu primeiro contato com a programação. Entre 2014 e 2015, fiz um pequeno projeto para mim mesmo na plataforma ROBLOX. Fiquei fascinado pela plataforma e seus jogos, e quis fazer um para mim. Então, aprendi a linguagem Lua por conta própria e fiz modelos 3D básicos utilizando a própria plataforma. Construi um jogo que, para minha surpresa, acabou indo para a página principal do site. Após isso, tive complicações que saíram do meu controle e tive que abandonar o projeto. Porém, o legado ainda vive em pequenas comunidades que tentam reviver o jogo. Em 2021, entrei para o COTEMIG, onde me aprofundei mais nas linguagens de programação e seus conceitos, aprendendo sobre bancos de dados, programação orientada a objetos e as linguagens C#, HTML, CSS e um pouco de JavaScript.
+---
 
-## ❓ Outras informações ❓ ##
-📘 Faculdade: Centro Universitário Newton Paiva, 2° período
+## 🚀 O que eu faço
 
-💻 Área: Full stack
+Desenvolvo soluções backend e de automação com foco em impacto mensurável. Na minha última experiência profissional, criei uma ferramenta em C# que aumentou a produtividade operacional em **+600%** — permitindo que uma pessoa gerenciasse sozinha o que antes exigia uma equipe.
 
-## EN
-## 👋 Hi, I’m Kokai, but you can call me Luis! ✌️ ##
-I am a student of Systems Analysis and Development and a relatively new programmer. I am passionate about technology and strive to expand my horizons every day, trying to learn new languages, methods, and concepts to become an excellent professional in my field.
+Tenho experiência prática com:
+- **Backend:** C#, ASP.NET Core, Java, Spring Boot
+- **Automação & Dados:** Python, ETL, Power BI
+- **Bancos de dados:** MySQL, MongoDB
+- **Cloud & DevOps:** Docker, Microsoft Azure (básico)
+- **Outros:** Lua, HTML, CSS, React (básico)
 
-## 📈 Journey 🗺️ ##
-In addition to being a technology lover, I am also a gaming enthusiast! It was through gaming that I had my first contact with programming. Between 2014 and 2015, I created a small project for myself on the ROBLOX platform. I was fascinated by the platform and its games, and I wanted to make one for myself. So, I learned the Lua language on my own and made basic 3D models using the platform. I built a game that, to my surprise, ended up on the site's main page. After that, I had complications beyond my control and had to abandon the project. However, the legacy still lives on in small communities that try to revive the game. In 2021, I joined COTEMIG, where I delved deeper into programming languages and their concepts, learning about databases, object-oriented programming, and the languages C#, HTML, CSS, and a bit of JavaScript.
+---
 
-## ❓ Other Information ❓ ##
-📘 University: Centro Universitário Newton Paiva, 2nd semester
+## 🗺️ De onde eu vim
 
-💻 Area: Full stack
+Tudo começou com jogos. Entre 2014 e 2016, aprendi Lua por conta própria e construí um jogo na plataforma Roblox — que acabou chegando à **página inicial do site**, alcançando milhares de jogadores. Foi ali que entendi o que programação pode fazer.
 
-### </> Linguagens e Ferramentas (Languages and Tools) 🛠️:
+Depois disso, fui para o **COTEMIG** (técnico em TI, 2022), onde aprofundei C#, HTML, CSS, bancos de dados e POO. Hoje estou no curso de **Tecnologia da Informação no Centro Universitário Newton Paiva** (conclusão prevista: 2027), consolidando fundamentos e explorando boas práticas de desenvolvimento.
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,lua,html,css,js,react,mysql,postgres,docker)](https://skillicons.dev)
+---
 
-### 💻 Softwares:
+## 🛠️ Stack
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,webstorm,robloxstudio)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,lua,html,css,js,react,mysql,postgres,docker)](https://skillicons.dev)
+
+**IDEs & Ferramentas:**  
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,webstorm,robloxstudio)](https://skillicons.dev)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k0kai-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/k0kai)
+[![Email](https://img.shields.io/badge/Email-kokailuisfmdm@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kokailuisfmdm@gmail.com)
 
 
-<!--
-**K0kai/K0kai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary>🇺🇸 English version</summary>
+  
+# Luis Felipe Machado · @K0kai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend Developer & Automation** · Belo Horizonte, Brazil  
+IT student with real production experience — I build tools that solve actual problems.
+
+---
+
+## 🚀 What I Do
+
+I develop backend and automation solutions focused on measurable impact. In my most recent professional role, I built a C# tool that increased operational productivity by **+600%** — enabling one person to handle what previously required a full team.
+
+Hands-on experience with:
+- **Backend:** C#, ASP.NET Core, Java, Spring Boot
+- **Automation & Data:** Python, ETL, Power BI
+- **Databases:** MySQL, MongoDB
+- **Cloud & DevOps:** Docker, Microsoft Azure (basic)
+- **Other:** Lua, HTML, CSS, React (basic)
+
+---
+
+## 🗺️ My Journey
+
+It all started with games. Between 2014 and 2016, I taught myself Lua and built a game on the Roblox platform — which ended up reaching the **site's front page** and thousands of players. That's where I understood what programming can actually do.
+
+From there, I attended **COTEMIG** (Technical High School in IT, 2022), where I deepened my knowledge of C#, HTML, CSS, databases, and OOP. I'm currently studying **Information Technology at Centro Universitário Newton Paiva** (expected graduation: 2027), focusing on software development best practices.
+
+---
+
+## 🛠️ Stack
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,lua,html,css,js,react,mysql,postgres,docker)](https://skillicons.dev)
+
+**IDEs & Tools:**  
+[![Tools](https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm,webstorm,robloxstudio)](https://skillicons.dev)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-k0kai-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/k0kai)
+[![Email](https://img.shields.io/badge/Email-kokailuisfmdm@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kokailuisfmdm@gmail.com)
+</details>
+
